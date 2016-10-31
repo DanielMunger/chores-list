@@ -1,0 +1,19 @@
+button{
+  margin-top: 10px;
+}
+
+body{
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+#chore-checkbox input{
+  margin-top: 10px;
+}
+
+.jumbotron{
+  margin-top: 15px;
+}
+
+.chores-left{
+  display: none;
+}
